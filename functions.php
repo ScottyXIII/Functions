@@ -26,7 +26,7 @@
 	 * @param string $endChar
 	 * @return string
 	 */
-	function WordLimiter ( $str, $limit = 100, $endChar = '&#8230;' )
+	function WordLimiter ($str, $limit = 100, $endChar = '&#8230;')
 	{
 		if (trim($str) == '') {
 			return $str;
