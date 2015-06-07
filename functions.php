@@ -1,7 +1,7 @@
 <?php 
 
 	/**
-	 * Gets the extension of a file.
+	 * Generates a random string of a given length
 	 * 
 	 * @param int $length
 	 * @return string
